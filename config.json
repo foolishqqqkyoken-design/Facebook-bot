@@ -5,7 +5,7 @@
     "autoCreateDB": true,
     "allowInbox": true,
     "autoClean": false,
-    "adminOnly": false,
+    "adminOnly": true,
     "keyAdminOnly": "",
     "commandDisabled": [],
     "eventDisabled": [],
@@ -18,11 +18,11 @@
         ""
     ],
     "UNSENTVIP": [
-        "61569263367732",
+        "",
         ""
     ],
     "GOD": [
-        "61569263367732",
+        "",
         ""
     ],
     "ADMINBOT": [
